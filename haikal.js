@@ -4324,6 +4324,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *NOTE*
 🌷
+Contact HW MOD wa.me/6285714170944
 Owner me wa.me/6285846641118
 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
